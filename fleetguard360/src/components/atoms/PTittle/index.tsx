@@ -2,10 +2,11 @@ import React from 'react'
 
 const index = () => {
   return (
-    <div>
-      <img src="/logo.png" alt="Logo" className='w-2xs h-1/2' />
+    <div className='text-6xl'>
+        <h1>
+            Unete
+        </h1>
     </div>
- 
   )
 }
 
