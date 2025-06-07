@@ -30,6 +30,8 @@ export default function Signup() {
     }
   }*/
 
+    // This component renders a signup form with fields for email and phone number.
+
   return (
     <div className="flex w-full justify-center pt-55 gap-22">
       <div className="max-w-152">
